@@ -1,0 +1,17 @@
+body {
+    background-color: #EDE5DA;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 18pt;
+}
